@@ -27,20 +27,20 @@ Threading: Runs the simulation in a separate thread to handle simultaneous input
 
 ## Libraries Used
 
-<iostream>: For input and output.
+`<iostream>`: For input and output.
 
-<cstdlib> and <ctime>: For random number generation.
+`<cstdlib>` and `<ctime>`: For random number generation.
 
-<thread> and <chrono>: For multithreading and timing.
+`<thread>` and `<chrono>`: For multithreading and timing.
 
-<conio.h>: For detecting keypresses (Windows-specific).
+`<conio.h>` For detecting keypresses (Windows-specific).
 
 
-ANSI Color Codes
+```ANSI Color Codes```
 
-GREEN_TEXT: Makes text green to resemble a typical "hacker" terminal.
+`GREEN_TEXT`: Makes text green to resemble a typical "hacker" terminal.
 
-RESET_TEXT: Resets text color to default.
+`RESET_TEXT`: Resets text color to default.
 
 
 ## Example Output
